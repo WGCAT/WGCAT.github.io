@@ -40,7 +40,7 @@
         <span class="nav__sub-title">Homis 그룹 멘토링</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "h4" %}
+                    {% if category[0] == "h1" %}
                         <li><a href="/categories/h1" class="">Homis 1차 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}

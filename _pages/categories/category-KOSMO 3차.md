@@ -8,5 +8,5 @@ sidebar_main: true
 
 
 
-{% assign posts = site.categories.3 %}
+{% assign posts = site.categories.k3 %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
