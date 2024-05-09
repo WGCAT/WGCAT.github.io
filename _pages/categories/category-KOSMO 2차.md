@@ -1,12 +1,12 @@
 ---
-title: "1차"
+title: "2차"
 layout: archive
-permalink: categories/1
+permalink: categories/k2
 author_profile: true
 sidebar_main: true
 ---
 
 
 
-{% assign posts = site.categories.1 %}
+{% assign posts = site.categories.2 %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
