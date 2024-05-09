@@ -1,5 +1,5 @@
 ---
-title: "Homis 3차"
+title: "Homis 1차"
 layout: archive
 permalink: categories/h1
 author_profile: true
