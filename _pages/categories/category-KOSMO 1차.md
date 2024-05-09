@@ -1,5 +1,5 @@
 ---
-title: "1차"
+title: "KOSMO 1차"
 layout: archive
 permalink: categories/k1
 author_profile: true

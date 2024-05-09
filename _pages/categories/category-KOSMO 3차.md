@@ -1,5 +1,5 @@
 ---
-title: "3차"
+title: "KOSMO 3차"
 layout: archive
 permalink: categories/k3
 author_profile: true
